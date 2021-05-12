@@ -28,3 +28,13 @@ Enter the following information in the MAS BAS config
 Information from `Behavior Analytics Services`
 
 ![bas-info](images/bas-info.png)
+
+# License key
+
+Refer to this link for the Application points https://www.ibm.com/docs/en/mas83/8.3.0?topic=overview-apppoints
+
+![mas-license-key](images/mas-license-key.png)
+
+# Completion of Setup
+
+![mas-completed](images/mas-completed.png)
